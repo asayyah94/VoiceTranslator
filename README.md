@@ -6,3 +6,6 @@
  Alamofire
  AlamofireSwiftyJSON
  ```
+
+ Don't Forget to replace "Your Oxford app-id goes here!" with your Oxford API app-id and "Your Oxford app-key goes here" with your Oxford API app-key.
+
